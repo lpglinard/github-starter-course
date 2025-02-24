@@ -1,5 +1,3 @@
-
-```markdown
 # :wave: O Básico do GitHub 
 
 ## 🤓 Visão geral do curso e resultados de aprendizado 
@@ -92,7 +90,3 @@ Você pode conferir o site do GitHub Explore [em github.com/explore](https://git
 * [Laboratório de Aprendizado do GitHub](https://lab.github.com/)
 * [Fórum da comunidade educacional](https://education.github.community/)
 * [Fórum da comunidade GitHub](https://github.community/)
-
-```
-
-Se precisar de mais alguma coisa, estou à disposição!
