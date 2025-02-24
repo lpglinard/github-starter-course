@@ -1,4 +1,3 @@
-O arquivo `README.md` está localizado no diretório raiz do repositório `classroom-resources/github-starter-course`. Aqui está o conteúdo traduzido para português:
 
 ```markdown
 # :wave: O Básico do GitHub 
